@@ -1,0 +1,6 @@
+{
+  "name": "HOSPIFIND — Intelligent Hospital Resource Discovery & Coordination",
+  "description": "Find care. Without the confusion. Centralized hospital resource discovery, bed availability tracking, blood bank directory, and Resource Freshness & Trust Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
